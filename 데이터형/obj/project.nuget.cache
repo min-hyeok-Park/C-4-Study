@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YtqZKVNP4zudBhogL+2ZxBArcNMpSiPHns2RfOV60AQbCOaEZoYbgiH6q42zhwzqnocbD8mFzoqWMvbqxrNyBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\박 민혁\\Desktop\\C#\\EmptySolution\\데이터형\\데이터형.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\박 민혁\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

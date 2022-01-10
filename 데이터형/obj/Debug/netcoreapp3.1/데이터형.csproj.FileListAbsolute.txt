@@ -1,0 +1,14 @@
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형\bin\Debug\netcoreapp3.1\데이터형.exe
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형\bin\Debug\netcoreapp3.1\데이터형.deps.json
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형\bin\Debug\netcoreapp3.1\데이터형.runtimeconfig.json
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형\bin\Debug\netcoreapp3.1\데이터형.runtimeconfig.dev.json
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형\bin\Debug\netcoreapp3.1\데이터형.dll
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형\bin\Debug\netcoreapp3.1\데이터형.pdb
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형\obj\Debug\netcoreapp3.1\데이터형.csprojAssemblyReference.cache
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형\obj\Debug\netcoreapp3.1\데이터형.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형\obj\Debug\netcoreapp3.1\데이터형.AssemblyInfoInputs.cache
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형\obj\Debug\netcoreapp3.1\데이터형.AssemblyInfo.cs
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형\obj\Debug\netcoreapp3.1\데이터형.csproj.CoreCompileInputs.cache
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형\obj\Debug\netcoreapp3.1\데이터형.dll
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형\obj\Debug\netcoreapp3.1\데이터형.pdb
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형\obj\Debug\netcoreapp3.1\데이터형.genruntimeconfig.cache
