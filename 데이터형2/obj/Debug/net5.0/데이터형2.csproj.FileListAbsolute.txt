@@ -1,0 +1,16 @@
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형2\bin\Debug\net5.0\데이터형2.exe
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형2\bin\Debug\net5.0\데이터형2.deps.json
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형2\bin\Debug\net5.0\데이터형2.runtimeconfig.json
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형2\bin\Debug\net5.0\데이터형2.runtimeconfig.dev.json
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형2\bin\Debug\net5.0\데이터형2.dll
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형2\bin\Debug\net5.0\ref\데이터형2.dll
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형2\bin\Debug\net5.0\데이터형2.pdb
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형2\obj\Debug\net5.0\데이터형2.csproj.AssemblyReference.cache
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형2\obj\Debug\net5.0\데이터형2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형2\obj\Debug\net5.0\데이터형2.AssemblyInfoInputs.cache
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형2\obj\Debug\net5.0\데이터형2.AssemblyInfo.cs
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형2\obj\Debug\net5.0\데이터형2.csproj.CoreCompileInputs.cache
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형2\obj\Debug\net5.0\데이터형2.dll
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형2\obj\Debug\net5.0\ref\데이터형2.dll
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형2\obj\Debug\net5.0\데이터형2.pdb
+C:\Users\박 민혁\Desktop\C#\EmptySolution\데이터형2\obj\Debug\net5.0\데이터형2.genruntimeconfig.cache
